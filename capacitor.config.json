@@ -1,0 +1,12 @@
+{
+  "appId": "ir.nobatyar.app",
+  "appName": "نوبت‌یاب",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
